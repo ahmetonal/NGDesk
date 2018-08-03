@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="29812" started-at="2018-08-03T00:20:11Z" finished-at="2018-08-03T00:20:41Z">
+  <suite name="Default suite" duration-ms="32906" started-at="2018-08-03T01:11:14Z" finished-at="2018-08-03T01:11:47Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="29812" started-at="2018-08-03T00:20:11Z" finished-at="2018-08-03T00:20:41Z">
+    <test name="Default test" duration-ms="32906" started-at="2018-08-03T01:11:14Z" finished-at="2018-08-03T01:11:47Z">
       <class name="com.NGDesk.tests.login.TestCase16">
-        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="setUpTest" is-config="true" duration-ms="292" started-at="2018-08-03T00:20:11Z" finished-at="2018-08-03T00:20:11Z">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="setUpTest" is-config="true" duration-ms="273" started-at="2018-08-03T01:11:14Z" finished-at="2018-08-03T01:11:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="setUp" is-config="true" duration-ms="6127" started-at="2018-08-03T00:20:11Z" finished-at="2018-08-03T00:20:18Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="setUp" is-config="true" duration-ms="9046" started-at="2018-08-03T01:11:15Z" finished-at="2018-08-03T01:11:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testCase16()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="testCase16" duration-ms="22615" started-at="2018-08-03T00:20:18Z" finished-at="2018-08-03T00:20:40Z">
+        <test-method status="PASS" signature="testCase16()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="testCase16" duration-ms="22815" started-at="2018-08-03T01:11:24Z" finished-at="2018-08-03T01:11:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase16 -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="tearDown" is-config="true" duration-ms="746" started-at="2018-08-03T00:20:40Z" finished-at="2018-08-03T00:20:41Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="tearDown" is-config="true" duration-ms="746" started-at="2018-08-03T01:11:46Z" finished-at="2018-08-03T01:11:47Z">
           <params>
             <param index="0">
               <value>
@@ -30,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="tearDownTest" is-config="true" duration-ms="3" started-at="2018-08-03T00:20:41Z" finished-at="2018-08-03T00:20:41Z">
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="tearDownTest" is-config="true" duration-ms="2" started-at="2018-08-03T01:11:47Z" finished-at="2018-08-03T01:11:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownTest -->
