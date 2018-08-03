@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29812" started-at="2018-08-03T00:20:11Z" finished-at="2018-08-03T00:20:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29812" started-at="2018-08-03T00:20:11Z" finished-at="2018-08-03T00:20:41Z">
+      <class name="com.NGDesk.tests.login.TestCase16">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="setUpTest" is-config="true" duration-ms="292" started-at="2018-08-03T00:20:11Z" finished-at="2018-08-03T00:20:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="setUp" is-config="true" duration-ms="6127" started-at="2018-08-03T00:20:11Z" finished-at="2018-08-03T00:20:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCase16()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="testCase16" duration-ms="22615" started-at="2018-08-03T00:20:18Z" finished-at="2018-08-03T00:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase16 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="tearDown" is-config="true" duration-ms="746" started-at="2018-08-03T00:20:40Z" finished-at="2018-08-03T00:20:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCase16 status=SUCCESS method=TestCase16.testCase16()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:com.NGDesk.tests.login.TestCase16@91161c7]" name="tearDownTest" is-config="true" duration-ms="3" started-at="2018-08-03T00:20:41Z" finished-at="2018-08-03T00:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- com.NGDesk.tests.login.TestCase16 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
